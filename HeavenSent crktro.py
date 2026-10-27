@@ -48,7 +48,7 @@ except IOError:
     logo_font = pygame.font.SysFont("PressStart2P-Regular", 48, bold=True)
 
 
-SCROLL_TEXT = "          WELCOME TO HEAVEN SENT     GOD IS GREAT     IRON SHARPENS IRON     TO LIVE IS CHRIST,TO DIE IS GAIN!          "
+SCROLL_TEXT = "          WELCOME TO HEAVEN SENT     GOD IS GREAT     GOD IS GOOD     IRON SHARPENS IRON     TO LIVE IS CHRIST,TO DIE IS GAIN!          "
 
 
 char_surfaces = [font.render(char, True, WHITE) for char in SCROLL_TEXT]
