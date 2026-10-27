@@ -16,7 +16,7 @@ This repository features a custom-built, real-time graphical application develop
 
 ### 📺 Live Application Demo
 <p align="center">
-  <video src="https://raw.githubusercontent.com/Jzeus222/Heaven-Sent-UI-System/main/HeavenSent_UI_Preview.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/3380dfa8-f4c7-483b-ab75-e3e3bf0aedef" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 ## 🚀 Key Professional Skills Demonstrated
