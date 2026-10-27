@@ -16,7 +16,7 @@ This repository features a custom-built, real-time graphical application develop
 
 ### 📺 Live Application Demo
 <p align="center">
-  <img src="HeavenSent_UI_Preview.gif" width="70%">
+  <img src="HeavenSent_UI_Preview.gif" width="65%">
 </p>
 
 ## 🚀 Key Professional Skills Demonstrated
