@@ -14,9 +14,14 @@ This repository features a custom-built, real-time graphical application develop
 * **AI-Assisted Integration:** Demonstrated advanced workflow optimization by leveraging generative AI assistants to debug code alignment, streamline resource integration, and refine vector mechanics.
 * **Dynamic Physics Elements:** Coded automated system elements, including randomized background particle generation arrays that run smoothly alongside active text interfaces.
 
+### 📺 Live Application Demo
+<p align="center">
+  <video src="https://githubusercontent.com" width="100%" autoplay loop muted playsinline></video>
+</p>
+
 ## 🚀 Key Professional Skills Demonstrated
 1. **Full Lifecycle Software Development:** Moving an initial abstract concept from rapid layout prototyping into a stable, fully executable user application.
 2. **Advanced Prompt Engineering:** Utilizing modern AI developer tools to rapidly optimize script performance, manage logical errors, and expand core system feature sets.
 
 ---
-*Developed by Jesus Kazaji | BCom Marketing Management & Analytics*
+*Developed by Jzeus222 | BCom Marketing Management & Analytics*
