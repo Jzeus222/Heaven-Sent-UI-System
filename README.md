@@ -15,7 +15,7 @@ This repository features a custom-built, real-time graphical application develop
 * **Dynamic Physics Elements:** Coded automated system elements, including randomized background particle generation arrays that run smoothly alongside active text interfaces.
 
 ### 📺 Live Application Demo
-![](https://github.com/user-attachments/assets/3380dfa8-f4c7-483b-ab75-e3e3bf0aedef)
+![](HeavenSent_UI_Preview.mp4)
 
 ## 🚀 Key Professional Skills Demonstrated
 1. **Full Lifecycle Software Development:** Moving an initial abstract concept from rapid layout prototyping into a stable, fully executable user application.
