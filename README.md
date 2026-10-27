@@ -19,4 +19,4 @@ This repository features a custom-built, real-time graphical application develop
 2. **Advanced Prompt Engineering:** Utilizing modern AI developer tools to rapidly optimize script performance, manage logical errors, and expand core system feature sets.
 
 ---
-*Developed by Jzeus222 | BCom Marketing Management & Analytics*
+*Developed by Jesus Kazaji | BCom Marketing Management & Analytics*
